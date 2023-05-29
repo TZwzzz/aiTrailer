@@ -1,0 +1,3 @@
+/home/wilson/work/getPhotos/build/CMakeFiles/rebuild_cache.dir
+/home/wilson/work/getPhotos/build/CMakeFiles/getPhotos.dir
+/home/wilson/work/getPhotos/build/CMakeFiles/edit_cache.dir
